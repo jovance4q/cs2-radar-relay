@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: cs2-radar
+    name: cs2-radar-live
     runtime: node
     plan: free
     buildCommand: npm install
